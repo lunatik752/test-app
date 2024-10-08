@@ -1,0 +1,41 @@
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+
+
+  .navBar {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+
+    .navLink {
+      margin: 0 8px;
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+
+      &.selected {
+        color: darkblue;
+      }
+
+      &:hover {
+        color: black;
+      }
+
+    }
+  }
+}
+
+.title {
+  flex-grow: 1;
+}
+
+.userInfo {
+  display: flex;
+  align-items: center;
+}
+
+.userName, .userEmail {
+  margin-left: 10px;
+}

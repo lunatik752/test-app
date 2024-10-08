@@ -1,0 +1,53 @@
+.modal {
+  position: relative;
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  padding: 16px;
+  margin: 5% auto;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+  }
+}
+
+
+
+.dropzone {
+  border: 2px dashed grey;
+  padding: 16px;
+  margin-bottom: 16px;
+  text-align: center;
+  flex-grow: 1;
+}
+
+.fileList {
+  margin-bottom: 16px;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.fileItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fileName {
+  flex-grow: 1;
+}
+
+.deleteButton {
+  margin-left: 8px;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 16px;
+}
