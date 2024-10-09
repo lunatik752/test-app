@@ -1,0 +1,1762 @@
+[
+  {
+    "request_guid": "b9e75daf-b5ce-4f61-a735-57c38732216e",
+    "document_date": "2022-11-10",
+    "document_number": "ВС-112341",
+    "document_presentation": "Документ 1",
+    "document_presentation_guid": "bfcb26d0-458b-44d5-885d-02668f6db824",
+    "document_type": "IN",
+    "record_date": "2024-07-17",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 1",
+    "organization_name": "Организация 1",
+    "organization_guid": "51e7e504-675c-4707-adf8-2353d120a472",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2024-03-05",
+    "files": [
+      {
+        "file_name": "downloads/file1.bmp",
+        "file_presentation": "Страница 1"
+      }
+    ]
+  },
+  {
+    "request_guid": "b35e51c4-1581-48d2-81ef-7c11440a4226",
+    "document_date": "2023-10-26",
+    "document_number": "ВС-112342",
+    "document_presentation": "Документ 2",
+    "document_presentation_guid": "dc04287b-b993-44d9-b8fe-f7b1558ba776",
+    "document_type": "IN",
+    "record_date": "2022-09-01",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 2",
+    "organization_name": "Организация 2",
+    "organization_guid": "0c9616a2-ca53-4beb-8ca0-bd7987b8c681",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2023-09-11",
+    "files": [
+      {
+        "file_name": "downloads/file2.pdf",
+        "file_presentation": "Страница 2"
+      }
+    ]
+  },
+  {
+    "request_guid": "b9aeda2c-1f80-4750-b83d-19df979e6692",
+    "document_date": "2023-10-28",
+    "document_number": "ВС-112343",
+    "document_presentation": "Документ 3",
+    "document_presentation_guid": "60d3bfb0-b08f-4f0d-b717-c515f70a626b",
+    "document_type": "OUT",
+    "record_date": "2024-06-11",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 3",
+    "organization_name": "Организация 3",
+    "organization_guid": "0723e480-ce99-4989-9ae4-5388f3ef692f",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2022-02-08",
+    "files": [
+      {
+        "file_name": "downloads/file3.tiff",
+        "file_presentation": "Страница 3"
+      }
+    ]
+  },
+  {
+    "request_guid": "9f70be7c-30f6-4b46-a4c0-6b087ba824e7",
+    "document_date": "2022-11-27",
+    "document_number": "ВС-112344",
+    "document_presentation": "Документ 4",
+    "document_presentation_guid": "c63e1542-6e49-475f-aa3f-b44c0f9b986c",
+    "document_type": "OUT",
+    "record_date": "2022-03-30",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 4",
+    "organization_name": "Организация 4",
+    "organization_guid": "a052e063-c470-4c13-95c4-a67513a06170",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2024-10-19",
+    "files": [
+      {
+        "file_name": "downloads/file4.bmp",
+        "file_presentation": "Страница 4"
+      }
+    ]
+  },
+  {
+    "request_guid": "0f7d8583-3c13-4a63-b00d-a2717ec63cb1",
+    "document_date": "2022-10-07",
+    "document_number": "ВС-112345",
+    "document_presentation": "Документ 5",
+    "document_presentation_guid": "5637e13c-0f8b-4e66-b390-e5c45364a948",
+    "document_type": "OUT",
+    "record_date": "2024-01-26",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 5",
+    "organization_name": "Организация 5",
+    "organization_guid": "eb12f018-c5eb-45a4-9cec-883fafe1e28c",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2024-09-10",
+    "files": [
+      {
+        "file_name": "downloads/file5.pdf",
+        "file_presentation": "Страница 5"
+      }
+    ]
+  },
+  {
+    "request_guid": "22552132-4d01-44b2-a4c3-cb38ba7b69ab",
+    "document_date": "2023-09-19",
+    "document_number": "ВС-112346",
+    "document_presentation": "Документ 6",
+    "document_presentation_guid": "81fa8669-0e30-4d89-9700-f24dd2b2537b",
+    "document_type": "IN",
+    "record_date": "2023-07-24",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 6",
+    "organization_name": "Организация 6",
+    "organization_guid": "aa03b768-1d04-4f7d-a644-1263de5e8993",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2024-03-09",
+    "files": [
+      {
+        "file_name": "downloads/file6.xls",
+        "file_presentation": "Страница 6"
+      }
+    ]
+  },
+  {
+    "request_guid": "1f5cebe1-2210-4078-9681-bceaaad47547",
+    "document_date": "2023-07-31",
+    "document_number": "ВС-112347",
+    "document_presentation": "Документ 7",
+    "document_presentation_guid": "f024a011-793d-41a3-999e-8225c43a4f2d",
+    "document_type": "OUT",
+    "record_date": "2022-07-30",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 7",
+    "organization_name": "Организация 7",
+    "organization_guid": "f8a34a71-cc0c-4f64-be8a-c5868067b222",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2022-09-29",
+    "files": [
+      {
+        "file_name": "downloads/file7.xlsx",
+        "file_presentation": "Страница 7"
+      }
+    ]
+  },
+  {
+    "request_guid": "ecc56f61-a244-418c-8095-360666112372",
+    "document_date": "2024-05-06",
+    "document_number": "ВС-112348",
+    "document_presentation": "Документ 8",
+    "document_presentation_guid": "a0c773af-836b-455a-b461-b6533ec78ea6",
+    "document_type": "OUT",
+    "record_date": "2024-09-26",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 8",
+    "organization_name": "Организация 8",
+    "organization_guid": "012fca9d-e2bc-4bd6-8ac3-5ca3c49fe7a3",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2022-10-17",
+    "files": [
+      {
+        "file_name": "downloads/file8.tiff",
+        "file_presentation": "Страница 8"
+      }
+    ]
+  },
+  {
+    "request_guid": "37207240-05c7-4fb2-a782-5573b5070e00",
+    "document_date": "2022-02-17",
+    "document_number": "ВС-112349",
+    "document_presentation": "Документ 9",
+    "document_presentation_guid": "42d485c2-d864-475a-87ce-3e1bbc2879ea",
+    "document_type": "OUT",
+    "record_date": "2023-08-26",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 9",
+    "organization_name": "Организация 9",
+    "organization_guid": "0451e861-4682-48c8-a318-ecc974f9cd05",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2022-02-25",
+    "files": [
+      {
+        "file_name": "downloads/file9.rtf",
+        "file_presentation": "Страница 9"
+      }
+    ]
+  },
+  {
+    "request_guid": "28a38310-cb9b-44e4-9642-7bcd81ceb5d5",
+    "document_date": "2022-11-06",
+    "document_number": "ВС-1123410",
+    "document_presentation": "Документ 10",
+    "document_presentation_guid": "86be065c-4fbd-49e6-8cb2-69a8d67983d4",
+    "document_type": "IN",
+    "record_date": "2022-03-29",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 10",
+    "organization_name": "Организация 10",
+    "organization_guid": "64fc315d-7037-407d-ab86-c677cfbce5e6",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2022-11-06",
+    "files": [
+      {
+        "file_name": "downloads/file10.docx",
+        "file_presentation": "Страница 10"
+      }
+    ]
+  },
+  {
+    "request_guid": "896f83e9-646d-4d6c-a543-177e4485765e",
+    "document_date": "2022-10-16",
+    "document_number": "ВС-1123411",
+    "document_presentation": "Документ 11",
+    "document_presentation_guid": "d44b0fb6-2b6d-4830-b6ff-c3e1e10f4607",
+    "document_type": "IN",
+    "record_date": "2024-12-13",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 11",
+    "organization_name": "Организация 11",
+    "organization_guid": "d12d66a0-df49-4b44-8d5f-cf59a4ae45da",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2022-05-25",
+    "files": [
+      {
+        "file_name": "downloads/file11.rtf",
+        "file_presentation": "Страница 11"
+      }
+    ]
+  },
+  {
+    "request_guid": "e51c0b3b-9b96-402a-bbea-c3feaf06b1fe",
+    "document_date": "2022-07-03",
+    "document_number": "ВС-1123412",
+    "document_presentation": "Документ 12",
+    "document_presentation_guid": "1ff66594-5a12-4b9f-aef7-00cd69547c63",
+    "document_type": "IN",
+    "record_date": "2023-07-25",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 12",
+    "organization_name": "Организация 12",
+    "organization_guid": "26b1e197-6422-4d5d-a29c-4de470469ae2",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2023-08-11",
+    "files": [
+      {
+        "file_name": "downloads/file12.rtf",
+        "file_presentation": "Страница 12"
+      }
+    ]
+  },
+  {
+    "request_guid": "d021bee8-56e1-40f8-ab33-1dc6d30e00c2",
+    "document_date": "2022-02-19",
+    "document_number": "ВС-1123413",
+    "document_presentation": "Документ 13",
+    "document_presentation_guid": "64216c4e-043f-450d-8d1f-c22f598376cb",
+    "document_type": "IN",
+    "record_date": "2023-12-02",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 13",
+    "organization_name": "Организация 13",
+    "organization_guid": "c07f4606-3ec2-49b2-9d82-a284b9a5f6a9",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2022-05-15",
+    "files": [
+      {
+        "file_name": "downloads/file13.docx",
+        "file_presentation": "Страница 13"
+      }
+    ]
+  },
+  {
+    "request_guid": "049e6789-433e-475f-8439-a9fa8679410c",
+    "document_date": "2022-12-20",
+    "document_number": "ВС-1123414",
+    "document_presentation": "Документ 14",
+    "document_presentation_guid": "bcd77e76-3034-4010-8062-019ab6ab0a7b",
+    "document_type": "IN",
+    "record_date": "2022-04-30",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 14",
+    "organization_name": "Организация 14",
+    "organization_guid": "ac0fd44a-2204-43c1-8dd7-d2f50ccd1dba",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-12-22",
+    "files": [
+      {
+        "file_name": "downloads/file14.tiff",
+        "file_presentation": "Страница 14"
+      }
+    ]
+  },
+  {
+    "request_guid": "b2f78188-c295-4278-b1b3-8083a3b1e18c",
+    "document_date": "2023-02-18",
+    "document_number": "ВС-1123415",
+    "document_presentation": "Документ 15",
+    "document_presentation_guid": "a1f47149-2be8-4d28-add5-8c6523bf6594",
+    "document_type": "IN",
+    "record_date": "2022-11-08",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 15",
+    "organization_name": "Организация 15",
+    "organization_guid": "36426b1e-52f3-4440-aea2-eabd86b4eca2",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2023-12-26",
+    "files": [
+      {
+        "file_name": "downloads/file15.bmp",
+        "file_presentation": "Страница 15"
+      }
+    ]
+  },
+  {
+    "request_guid": "24de0593-d4f0-4a74-b52f-1fce9f4657ea",
+    "document_date": "2022-12-18",
+    "document_number": "ВС-1123416",
+    "document_presentation": "Документ 16",
+    "document_presentation_guid": "a37a4fb4-f68f-493c-aea7-9f330daa77a2",
+    "document_type": "OUT",
+    "record_date": "2023-03-07",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 16",
+    "organization_name": "Организация 16",
+    "organization_guid": "7e8e79b9-a79d-474b-8da7-e79b3bdcd4d8",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2023-11-16",
+    "files": [
+      {
+        "file_name": "downloads/file16.png",
+        "file_presentation": "Страница 16"
+      }
+    ]
+  },
+  {
+    "request_guid": "3e3d681e-1779-40d7-b00b-c857b9aaeea7",
+    "document_date": "2022-10-22",
+    "document_number": "ВС-1123417",
+    "document_presentation": "Документ 17",
+    "document_presentation_guid": "7f52bc88-9686-47fe-8845-16f9739a126e",
+    "document_type": "OUT",
+    "record_date": "2024-06-02",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 17",
+    "organization_name": "Организация 17",
+    "organization_guid": "2aca3eeb-ba0e-4f52-8706-0c284dd6338c",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2023-06-18",
+    "files": [
+      {
+        "file_name": "downloads/file17.png",
+        "file_presentation": "Страница 17"
+      }
+    ]
+  },
+  {
+    "request_guid": "95dca2ff-4302-4553-9a3a-9d9d341211b4",
+    "document_date": "2024-09-22",
+    "document_number": "ВС-1123418",
+    "document_presentation": "Документ 18",
+    "document_presentation_guid": "5f4ea6e3-94b3-4eef-9415-76062fb5d419",
+    "document_type": "IN",
+    "record_date": "2022-12-20",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 18",
+    "organization_name": "Организация 18",
+    "organization_guid": "f5d37ef3-04bc-4b6f-8f6f-34cb35573d2b",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2022-04-14",
+    "files": [
+      {
+        "file_name": "downloads/file18.pdf",
+        "file_presentation": "Страница 18"
+      }
+    ]
+  },
+  {
+    "request_guid": "f464f179-0967-4a9f-9c4f-8f98699b8c6e",
+    "document_date": "2022-10-18",
+    "document_number": "ВС-1123419",
+    "document_presentation": "Документ 19",
+    "document_presentation_guid": "7f573bf0-a34e-434f-8f52-591fdf4b78a5",
+    "document_type": "IN",
+    "record_date": "2022-07-21",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 19",
+    "organization_name": "Организация 19",
+    "organization_guid": "fb54bc63-83c3-4769-b445-7c0df5a28f8b",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2024-07-01",
+    "files": [
+      {
+        "file_name": "downloads/file19.pdf",
+        "file_presentation": "Страница 19"
+      }
+    ]
+  },
+  {
+    "request_guid": "d8fe2f6b-8b32-4ea0-8cae-aa2ace2847e0",
+    "document_date": "2022-11-04",
+    "document_number": "ВС-1123420",
+    "document_presentation": "Документ 20",
+    "document_presentation_guid": "b03a5a78-cf6c-44bb-9e72-8a7bcd54c9bc",
+    "document_type": "IN",
+    "record_date": "2022-05-13",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 20",
+    "organization_name": "Организация 20",
+    "organization_guid": "50554cc5-7912-4826-9ce2-7871a4fa20d1",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2024-09-15",
+    "files": [
+      {
+        "file_name": "downloads/file20.rtf",
+        "file_presentation": "Страница 20"
+      }
+    ]
+  },
+  {
+    "request_guid": "d0056e64-b8b9-48ed-a1c8-ca3266539080",
+    "document_date": "2024-01-19",
+    "document_number": "ВС-1123421",
+    "document_presentation": "Документ 21",
+    "document_presentation_guid": "4cccbb94-4d4d-4fa5-8094-9baa990031d7",
+    "document_type": "OUT",
+    "record_date": "2022-10-05",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 21",
+    "organization_name": "Организация 21",
+    "organization_guid": "7a934754-2e77-4f24-b393-49829401afe0",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2024-12-13",
+    "files": [
+      {
+        "file_name": "downloads/file21.png",
+        "file_presentation": "Страница 21"
+      }
+    ]
+  },
+  {
+    "request_guid": "a8339744-8205-4e1a-b81f-ee96ae24c895",
+    "document_date": "2024-02-16",
+    "document_number": "ВС-1123422",
+    "document_presentation": "Документ 22",
+    "document_presentation_guid": "739f8cb5-e3d1-43b8-b640-a47faecca89a",
+    "document_type": "IN",
+    "record_date": "2024-03-12",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 22",
+    "organization_name": "Организация 22",
+    "organization_guid": "71fd52cc-963d-4672-9640-72f9fca17cf1",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-04-11",
+    "files": [
+      {
+        "file_name": "downloads/file22.pdf",
+        "file_presentation": "Страница 22"
+      }
+    ]
+  },
+  {
+    "request_guid": "cc9c5f90-a63d-4e02-b8b7-4b2ac1dd5949",
+    "document_date": "2023-08-22",
+    "document_number": "ВС-1123423",
+    "document_presentation": "Документ 23",
+    "document_presentation_guid": "7c967025-d9db-40e3-84cc-752a62350bb7",
+    "document_type": "OUT",
+    "record_date": "2022-09-09",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 23",
+    "organization_name": "Организация 23",
+    "organization_guid": "636919a4-719f-4ecb-8bfe-62c7a2bc9245",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2023-07-07",
+    "files": [
+      {
+        "file_name": "downloads/file23.tiff",
+        "file_presentation": "Страница 23"
+      }
+    ]
+  },
+  {
+    "request_guid": "495d1428-59ae-43e8-be29-41d2f94da351",
+    "document_date": "2024-03-04",
+    "document_number": "ВС-1123424",
+    "document_presentation": "Документ 24",
+    "document_presentation_guid": "87d345c8-75a4-4098-bd23-4a23ae291f6e",
+    "document_type": "IN",
+    "record_date": "2023-01-12",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 24",
+    "organization_name": "Организация 24",
+    "organization_guid": "92e22aaf-8a2b-4573-afe3-cfc3376e0b47",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2022-07-22",
+    "files": [
+      {
+        "file_name": "downloads/file24.xls",
+        "file_presentation": "Страница 24"
+      }
+    ]
+  },
+  {
+    "request_guid": "55ffc375-21c8-4872-b314-0b64d39d0a23",
+    "document_date": "2024-05-30",
+    "document_number": "ВС-1123425",
+    "document_presentation": "Документ 25",
+    "document_presentation_guid": "9710edd1-f813-4a88-9928-422303bacd37",
+    "document_type": "OUT",
+    "record_date": "2024-07-12",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 25",
+    "organization_name": "Организация 25",
+    "organization_guid": "50bad39e-1665-4a1a-a875-6394958813fd",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-11-05",
+    "files": [
+      {
+        "file_name": "downloads/file25.tiff",
+        "file_presentation": "Страница 25"
+      }
+    ]
+  },
+  {
+    "request_guid": "bebae9ea-05cf-457a-b661-57d5a6b154d1",
+    "document_date": "2022-12-17",
+    "document_number": "ВС-1123426",
+    "document_presentation": "Документ 26",
+    "document_presentation_guid": "393c1f54-f129-4935-b2a4-f999477ed197",
+    "document_type": "OUT",
+    "record_date": "2023-11-05",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 26",
+    "organization_name": "Организация 26",
+    "organization_guid": "b988af7b-49c0-49b3-a102-acfa6aa3ca7a",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2023-12-07",
+    "files": [
+      {
+        "file_name": "downloads/file26.png",
+        "file_presentation": "Страница 26"
+      }
+    ]
+  },
+  {
+    "request_guid": "d471d04f-6c48-42ea-9174-0f0f25b6444f",
+    "document_date": "2022-12-24",
+    "document_number": "ВС-1123427",
+    "document_presentation": "Документ 27",
+    "document_presentation_guid": "75702271-0eb3-410c-8b79-51df127054ce",
+    "document_type": "IN",
+    "record_date": "2023-02-05",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 27",
+    "organization_name": "Организация 27",
+    "organization_guid": "72c8d13f-d921-4350-8c05-5efc3bd27cfa",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2022-11-08",
+    "files": [
+      {
+        "file_name": "downloads/file27.png",
+        "file_presentation": "Страница 27"
+      }
+    ]
+  },
+  {
+    "request_guid": "5a186817-e196-438a-a21c-d16eae323ec1",
+    "document_date": "2022-05-29",
+    "document_number": "ВС-1123428",
+    "document_presentation": "Документ 28",
+    "document_presentation_guid": "ac32a5ff-d743-47e2-b796-cca67dde0949",
+    "document_type": "OUT",
+    "record_date": "2023-06-13",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 28",
+    "organization_name": "Организация 28",
+    "organization_guid": "8e004332-3810-4570-81d6-08952d9607ad",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2024-02-04",
+    "files": [
+      {
+        "file_name": "downloads/file28.xls",
+        "file_presentation": "Страница 28"
+      }
+    ]
+  },
+  {
+    "request_guid": "b5edd517-f998-41b7-93f3-85653aefa71f",
+    "document_date": "2023-09-05",
+    "document_number": "ВС-1123429",
+    "document_presentation": "Документ 29",
+    "document_presentation_guid": "24997a59-b965-4056-85b7-ffdb940afab8",
+    "document_type": "OUT",
+    "record_date": "2023-09-23",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 29",
+    "organization_name": "Организация 29",
+    "organization_guid": "a203922e-edfb-4241-b311-f3bd8618167c",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2023-08-24",
+    "files": [
+      {
+        "file_name": "downloads/file29.docx",
+        "file_presentation": "Страница 29"
+      }
+    ]
+  },
+  {
+    "request_guid": "6c376e2d-f189-4e52-8df5-3baed536c695",
+    "document_date": "2023-09-25",
+    "document_number": "ВС-1123430",
+    "document_presentation": "Документ 30",
+    "document_presentation_guid": "7a0cabe3-d2a7-418c-b8c3-45de01ac284a",
+    "document_type": "IN",
+    "record_date": "2023-10-01",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 30",
+    "organization_name": "Организация 30",
+    "organization_guid": "fe37b338-6abc-49e5-8f2d-86dba32fd622",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2023-11-02",
+    "files": [
+      {
+        "file_name": "downloads/file30.doc",
+        "file_presentation": "Страница 30"
+      }
+    ]
+  },
+  {
+    "request_guid": "e1175d69-8dcf-4e83-b8d3-397d73698d36",
+    "document_date": "2024-06-24",
+    "document_number": "ВС-1123431",
+    "document_presentation": "Документ 31",
+    "document_presentation_guid": "0e859e37-f1ab-436a-8ebf-f511f6eb441c",
+    "document_type": "IN",
+    "record_date": "2024-06-30",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 31",
+    "organization_name": "Организация 31",
+    "organization_guid": "1b8ce2cd-d837-4bf0-9e6d-2329d96dd4d8",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2024-08-15",
+    "files": [
+      {
+        "file_name": "downloads/file31.jpg",
+        "file_presentation": "Страница 31"
+      }
+    ]
+  },
+  {
+    "request_guid": "e699565f-5156-4dc9-b73e-a6a147934ee7",
+    "document_date": "2022-09-30",
+    "document_number": "ВС-1123432",
+    "document_presentation": "Документ 32",
+    "document_presentation_guid": "e8687a51-af70-45b0-8a51-2b832e4b4904",
+    "document_type": "IN",
+    "record_date": "2023-10-17",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 32",
+    "organization_name": "Организация 32",
+    "organization_guid": "61c6f483-7831-4c76-b61a-25f1c727d903",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2023-01-05",
+    "files": [
+      {
+        "file_name": "downloads/file32.docx",
+        "file_presentation": "Страница 32"
+      }
+    ]
+  },
+  {
+    "request_guid": "411663b5-6935-4d3b-b6c2-45f24f186f36",
+    "document_date": "2023-02-07",
+    "document_number": "ВС-1123433",
+    "document_presentation": "Документ 33",
+    "document_presentation_guid": "8392e4c4-9e20-4b14-8fe6-d3171a8effd2",
+    "document_type": "IN",
+    "record_date": "2022-10-03",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 33",
+    "organization_name": "Организация 33",
+    "organization_guid": "742d7a43-cc68-4e1a-a8f7-7c71e7bd15e0",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2022-05-23",
+    "files": [
+      {
+        "file_name": "downloads/file33.bmp",
+        "file_presentation": "Страница 33"
+      }
+    ]
+  },
+  {
+    "request_guid": "5e3bc138-efd6-4d78-839c-17e4a1e3f1bf",
+    "document_date": "2023-07-14",
+    "document_number": "ВС-1123434",
+    "document_presentation": "Документ 34",
+    "document_presentation_guid": "2ace06d9-6468-4ad4-9df1-bf9dea9922be",
+    "document_type": "OUT",
+    "record_date": "2024-07-12",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 34",
+    "organization_name": "Организация 34",
+    "organization_guid": "beda0abd-4d1b-4c20-ae30-7c241e2c0e70",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2022-08-03",
+    "files": [
+      {
+        "file_name": "downloads/file34.png",
+        "file_presentation": "Страница 34"
+      }
+    ]
+  },
+  {
+    "request_guid": "b7edaf8d-04c2-4a65-92ec-3c398d69731e",
+    "document_date": "2023-06-05",
+    "document_number": "ВС-1123435",
+    "document_presentation": "Документ 35",
+    "document_presentation_guid": "5865ed6a-2410-4370-82b7-4a9515134848",
+    "document_type": "OUT",
+    "record_date": "2024-07-10",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 35",
+    "organization_name": "Организация 35",
+    "organization_guid": "cc6f1421-b4e8-4613-8f82-c8a96bd6db36",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2024-09-01",
+    "files": [
+      {
+        "file_name": "downloads/file35.png",
+        "file_presentation": "Страница 35"
+      }
+    ]
+  },
+  {
+    "request_guid": "e1877131-4c14-425f-b71e-fce8d74bb1ef",
+    "document_date": "2023-03-22",
+    "document_number": "ВС-1123436",
+    "document_presentation": "Документ 36",
+    "document_presentation_guid": "21b9b914-32b3-413c-91cb-19bf67c1dfbf",
+    "document_type": "OUT",
+    "record_date": "2024-09-09",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 36",
+    "organization_name": "Организация 36",
+    "organization_guid": "b0afd3f7-bb68-489c-b268-b6e6bda2e796",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2022-11-21",
+    "files": [
+      {
+        "file_name": "downloads/file36.xls",
+        "file_presentation": "Страница 36"
+      }
+    ]
+  },
+  {
+    "request_guid": "0a8228a9-1405-4b0b-9bef-0eb9c7b09048",
+    "document_date": "2023-01-07",
+    "document_number": "ВС-1123437",
+    "document_presentation": "Документ 37",
+    "document_presentation_guid": "6bc096e2-cdef-41ad-81cb-90b02da424f3",
+    "document_type": "IN",
+    "record_date": "2023-05-10",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 37",
+    "organization_name": "Организация 37",
+    "organization_guid": "0f4bd308-ae57-4b9b-ab4a-373b4d57c05a",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2024-03-05",
+    "files": [
+      {
+        "file_name": "downloads/file37.tiff",
+        "file_presentation": "Страница 37"
+      }
+    ]
+  },
+  {
+    "request_guid": "936872fd-b7bd-49aa-b988-e255eb47fda9",
+    "document_date": "2023-12-12",
+    "document_number": "ВС-1123438",
+    "document_presentation": "Документ 38",
+    "document_presentation_guid": "351225fe-c27e-456e-943b-dda8a63328a1",
+    "document_type": "OUT",
+    "record_date": "2024-08-11",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 38",
+    "organization_name": "Организация 38",
+    "organization_guid": "ce2303ea-2109-45bd-bd76-65fceb9122bd",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2022-11-16",
+    "files": [
+      {
+        "file_name": "downloads/file38.doc",
+        "file_presentation": "Страница 38"
+      }
+    ]
+  },
+  {
+    "request_guid": "36a3fef3-bc71-429d-bf74-97dd0a29081f",
+    "document_date": "2024-01-29",
+    "document_number": "ВС-1123439",
+    "document_presentation": "Документ 39",
+    "document_presentation_guid": "3407b90e-6764-4200-bb80-58805a7ed4d1",
+    "document_type": "OUT",
+    "record_date": "2023-02-19",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 39",
+    "organization_name": "Организация 39",
+    "organization_guid": "58f524ac-0862-4065-a164-319cef8610f8",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2022-11-14",
+    "files": [
+      {
+        "file_name": "downloads/file39.doc",
+        "file_presentation": "Страница 39"
+      }
+    ]
+  },
+  {
+    "request_guid": "eec753bc-c6c2-4855-a7cf-2f389ba87083",
+    "document_date": "2023-11-05",
+    "document_number": "ВС-1123440",
+    "document_presentation": "Документ 40",
+    "document_presentation_guid": "2d5d7a25-2bcc-4c5f-ba4e-1feef2fce9cf",
+    "document_type": "IN",
+    "record_date": "2023-11-23",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 40",
+    "organization_name": "Организация 40",
+    "organization_guid": "b1a823c2-a074-49c6-b817-9f3388ec6b7d",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2022-01-08",
+    "files": [
+      {
+        "file_name": "downloads/file40.doc",
+        "file_presentation": "Страница 40"
+      }
+    ]
+  },
+  {
+    "request_guid": "573704b5-e7e4-4fb6-b0a2-70481a7fc268",
+    "document_date": "2022-01-27",
+    "document_number": "ВС-1123441",
+    "document_presentation": "Документ 41",
+    "document_presentation_guid": "d30f9cef-ded8-4121-81b1-8fdcf3bc9b3f",
+    "document_type": "OUT",
+    "record_date": "2023-04-08",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 41",
+    "organization_name": "Организация 41",
+    "organization_guid": "ca0a421a-b964-421c-a8f8-bf116072ab41",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-12-21",
+    "files": [
+      {
+        "file_name": "downloads/file41.xls",
+        "file_presentation": "Страница 41"
+      }
+    ]
+  },
+  {
+    "request_guid": "64a4d231-97ae-4976-87ef-f8aa0ad9fa31",
+    "document_date": "2022-12-04",
+    "document_number": "ВС-1123442",
+    "document_presentation": "Документ 42",
+    "document_presentation_guid": "13c323a0-7ee2-4922-80ef-9179fb9113e2",
+    "document_type": "IN",
+    "record_date": "2022-07-20",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 42",
+    "organization_name": "Организация 42",
+    "organization_guid": "95bd865f-1cb4-4b54-8299-2fecfa3f7ef8",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2024-04-25",
+    "files": [
+      {
+        "file_name": "downloads/file42.tiff",
+        "file_presentation": "Страница 42"
+      }
+    ]
+  },
+  {
+    "request_guid": "8a53fb5a-f1a4-4f37-8e29-1cd1c69cefb5",
+    "document_date": "2023-01-15",
+    "document_number": "ВС-1123443",
+    "document_presentation": "Документ 43",
+    "document_presentation_guid": "44ade2e9-3d8c-4bbe-8c42-7e097df77ef3",
+    "document_type": "OUT",
+    "record_date": "2022-10-12",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 43",
+    "organization_name": "Организация 43",
+    "organization_guid": "913b61cc-75cc-459e-9394-42cb1d950f8c",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2024-09-05",
+    "files": [
+      {
+        "file_name": "downloads/file43.bmp",
+        "file_presentation": "Страница 43"
+      }
+    ]
+  },
+  {
+    "request_guid": "ed67766d-6f2f-4102-987f-e6c8ceb37346",
+    "document_date": "2022-10-24",
+    "document_number": "ВС-1123444",
+    "document_presentation": "Документ 44",
+    "document_presentation_guid": "0ec173c5-23a1-4d46-8f32-189386e903a5",
+    "document_type": "OUT",
+    "record_date": "2023-10-24",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 44",
+    "organization_name": "Организация 44",
+    "organization_guid": "0ffb6fa2-087d-4f7d-af6f-1377b6c72733",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2023-02-18",
+    "files": [
+      {
+        "file_name": "downloads/file44.jpg",
+        "file_presentation": "Страница 44"
+      }
+    ]
+  },
+  {
+    "request_guid": "3ca8cc72-0cba-4e0e-954f-3a5bfbf87684",
+    "document_date": "2022-07-14",
+    "document_number": "ВС-1123445",
+    "document_presentation": "Документ 45",
+    "document_presentation_guid": "8ea96ca0-b412-48ae-acf6-2712733e8d90",
+    "document_type": "IN",
+    "record_date": "2022-07-08",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 45",
+    "organization_name": "Организация 45",
+    "organization_guid": "497c6f17-a2dc-458b-9217-bb6208cd2dec",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2022-01-26",
+    "files": [
+      {
+        "file_name": "downloads/file45.jpg",
+        "file_presentation": "Страница 45"
+      }
+    ]
+  },
+  {
+    "request_guid": "df7e68e3-4665-40f9-8541-46b595f1e341",
+    "document_date": "2024-02-29",
+    "document_number": "ВС-1123446",
+    "document_presentation": "Документ 46",
+    "document_presentation_guid": "964d7459-c015-4700-b146-3e14e11f41a7",
+    "document_type": "IN",
+    "record_date": "2024-06-09",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 46",
+    "organization_name": "Организация 46",
+    "organization_guid": "ff8d50ce-fd4c-4e7c-a975-707692fb44f6",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-03-15",
+    "files": [
+      {
+        "file_name": "downloads/file46.png",
+        "file_presentation": "Страница 46"
+      }
+    ]
+  },
+  {
+    "request_guid": "9888de36-84aa-4e7f-851a-99e55f0d8173",
+    "document_date": "2022-08-15",
+    "document_number": "ВС-1123447",
+    "document_presentation": "Документ 47",
+    "document_presentation_guid": "a153cf63-d906-4e2a-8a12-ef396143915a",
+    "document_type": "OUT",
+    "record_date": "2024-07-04",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 47",
+    "organization_name": "Организация 47",
+    "organization_guid": "a717c92c-e60f-4693-b08d-bd55c918f6a4",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2023-10-18",
+    "files": [
+      {
+        "file_name": "downloads/file47.pdf",
+        "file_presentation": "Страница 47"
+      }
+    ]
+  },
+  {
+    "request_guid": "4d70a207-b7ae-4aaf-bf2c-fc57a8cb28a8",
+    "document_date": "2024-02-23",
+    "document_number": "ВС-1123448",
+    "document_presentation": "Документ 48",
+    "document_presentation_guid": "3b586cb9-02ab-4b52-9dc0-11d200ae9e23",
+    "document_type": "OUT",
+    "record_date": "2022-06-15",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 48",
+    "organization_name": "Организация 48",
+    "organization_guid": "7385a072-e68f-42f3-82ca-00bbc5d9d715",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2023-04-12",
+    "files": [
+      {
+        "file_name": "downloads/file48.xls",
+        "file_presentation": "Страница 48"
+      }
+    ]
+  },
+  {
+    "request_guid": "cf5d550a-30d0-45de-a6b2-1360cb2e8c68",
+    "document_date": "2024-06-29",
+    "document_number": "ВС-1123449",
+    "document_presentation": "Документ 49",
+    "document_presentation_guid": "56642dee-1aa1-4cfb-9a2d-4262a660b5e3",
+    "document_type": "IN",
+    "record_date": "2022-03-14",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 49",
+    "organization_name": "Организация 49",
+    "organization_guid": "1df1e75a-fc42-4154-902c-e17219bad549",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2022-04-04",
+    "files": [
+      {
+        "file_name": "downloads/file49.jpg",
+        "file_presentation": "Страница 49"
+      }
+    ]
+  },
+  {
+    "request_guid": "8b6c95c5-7bee-4dfb-b567-3e9bf01fa0bc",
+    "document_date": "2022-07-16",
+    "document_number": "ВС-1123450",
+    "document_presentation": "Документ 50",
+    "document_presentation_guid": "da2fb48b-ffa9-4b1b-a7bf-75543c767fe8",
+    "document_type": "IN",
+    "record_date": "2024-02-16",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 50",
+    "organization_name": "Организация 50",
+    "organization_guid": "97b7fe32-dd29-434a-9955-e0d391a2d4a5",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2024-04-06",
+    "files": [
+      {
+        "file_name": "downloads/file50.docx",
+        "file_presentation": "Страница 50"
+      }
+    ]
+  },
+  {
+    "request_guid": "6f8b94bf-ca0b-4b01-a4ca-04b2ee707128",
+    "document_date": "2022-12-27",
+    "document_number": "ВС-1123451",
+    "document_presentation": "Документ 51",
+    "document_presentation_guid": "cad9c43e-5ebd-4799-b083-7bdf915d3bb0",
+    "document_type": "OUT",
+    "record_date": "2024-05-21",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 51",
+    "organization_name": "Организация 51",
+    "organization_guid": "f43f97fd-d1f6-4201-9201-7e36e7e93420",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2024-05-25",
+    "files": [
+      {
+        "file_name": "downloads/file51.bmp",
+        "file_presentation": "Страница 51"
+      }
+    ]
+  },
+  {
+    "request_guid": "db4f5754-569d-4d74-9119-279316d57183",
+    "document_date": "2023-08-10",
+    "document_number": "ВС-1123452",
+    "document_presentation": "Документ 52",
+    "document_presentation_guid": "32be39ae-f554-424b-bff8-e1cb2096ca7e",
+    "document_type": "IN",
+    "record_date": "2024-06-16",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 52",
+    "organization_name": "Организация 52",
+    "organization_guid": "e3deb671-72fe-45f0-b8dc-9e62e1456bec",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-07-17",
+    "files": [
+      {
+        "file_name": "downloads/file52.pdf",
+        "file_presentation": "Страница 52"
+      }
+    ]
+  },
+  {
+    "request_guid": "da70602d-dff1-48b4-a98e-025b1eca702b",
+    "document_date": "2023-04-14",
+    "document_number": "ВС-1123453",
+    "document_presentation": "Документ 53",
+    "document_presentation_guid": "deadefbb-4f01-48e2-87b1-ee8ccf3bf2bd",
+    "document_type": "OUT",
+    "record_date": "2022-05-20",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 53",
+    "organization_name": "Организация 53",
+    "organization_guid": "8e593449-ba5a-47fe-b7f1-8875a54d393b",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2022-11-18",
+    "files": [
+      {
+        "file_name": "downloads/file53.docx",
+        "file_presentation": "Страница 53"
+      }
+    ]
+  },
+  {
+    "request_guid": "541ec0bc-27a2-4da5-ae2b-b6f5776f5b0c",
+    "document_date": "2022-02-27",
+    "document_number": "ВС-1123454",
+    "document_presentation": "Документ 54",
+    "document_presentation_guid": "b85cc7fc-132c-4cc2-8e10-4c5becbb60e4",
+    "document_type": "OUT",
+    "record_date": "2024-02-27",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 54",
+    "organization_name": "Организация 54",
+    "organization_guid": "c3fecc33-f3c4-4b02-a2f1-f2c317a71a6e",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2023-04-01",
+    "files": [
+      {
+        "file_name": "downloads/file54.tiff",
+        "file_presentation": "Страница 54"
+      }
+    ]
+  },
+  {
+    "request_guid": "82a94504-b0d4-48cb-9136-f289380bb1d6",
+    "document_date": "2022-04-22",
+    "document_number": "ВС-1123455",
+    "document_presentation": "Документ 55",
+    "document_presentation_guid": "b9b4359b-0d87-4e52-a965-ddfc6c153118",
+    "document_type": "IN",
+    "record_date": "2023-12-07",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 55",
+    "organization_name": "Организация 55",
+    "organization_guid": "00183db3-a0dd-442e-822a-e80f31a99f1a",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2022-05-09",
+    "files": [
+      {
+        "file_name": "downloads/file55.png",
+        "file_presentation": "Страница 55"
+      }
+    ]
+  },
+  {
+    "request_guid": "90fb7f15-7b39-40bd-92d0-5121a3ab26b1",
+    "document_date": "2022-08-28",
+    "document_number": "ВС-1123456",
+    "document_presentation": "Документ 56",
+    "document_presentation_guid": "a09c79b5-93e5-4dcb-b7f8-e9ee07ad0c71",
+    "document_type": "IN",
+    "record_date": "2024-12-28",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 56",
+    "organization_name": "Организация 56",
+    "organization_guid": "ccb65e3b-a2d2-414b-a5ee-2e1bd99ca888",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-02-05",
+    "files": [
+      {
+        "file_name": "downloads/file56.bmp",
+        "file_presentation": "Страница 56"
+      }
+    ]
+  },
+  {
+    "request_guid": "2cfa311b-be23-4893-a6d3-d7dfa7587cb2",
+    "document_date": "2024-06-22",
+    "document_number": "ВС-1123457",
+    "document_presentation": "Документ 57",
+    "document_presentation_guid": "7ac2be95-1c9e-42c6-a76e-d4b01ad4c659",
+    "document_type": "OUT",
+    "record_date": "2023-09-09",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 57",
+    "organization_name": "Организация 57",
+    "organization_guid": "84b215bf-936b-43d6-a1ea-d4fc1bd51706",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2023-09-29",
+    "files": [
+      {
+        "file_name": "downloads/file57.pdf",
+        "file_presentation": "Страница 57"
+      }
+    ]
+  },
+  {
+    "request_guid": "4d5b24eb-b238-46d5-805b-91a0357737e7",
+    "document_date": "2023-12-27",
+    "document_number": "ВС-1123458",
+    "document_presentation": "Документ 58",
+    "document_presentation_guid": "4c81fb96-4cdc-4c81-bf7b-95e79090c4b2",
+    "document_type": "OUT",
+    "record_date": "2022-02-28",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 58",
+    "organization_name": "Организация 58",
+    "organization_guid": "98a17b73-b49b-45a3-8462-8d639c131270",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2022-09-25",
+    "files": [
+      {
+        "file_name": "downloads/file58.docx",
+        "file_presentation": "Страница 58"
+      }
+    ]
+  },
+  {
+    "request_guid": "5d5d72a0-4c93-4917-9af0-50083c7fe063",
+    "document_date": "2023-07-29",
+    "document_number": "ВС-1123459",
+    "document_presentation": "Документ 59",
+    "document_presentation_guid": "edb771cb-01b9-4a62-aa46-f039639c990f",
+    "document_type": "OUT",
+    "record_date": "2023-09-29",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 59",
+    "organization_name": "Организация 59",
+    "organization_guid": "c6902cff-17f5-4367-beb5-47840ab631e7",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2024-07-21",
+    "files": [
+      {
+        "file_name": "downloads/file59.png",
+        "file_presentation": "Страница 59"
+      }
+    ]
+  },
+  {
+    "request_guid": "76e28b53-52b6-4576-9ad1-be9896f1a8c4",
+    "document_date": "2022-06-14",
+    "document_number": "ВС-1123460",
+    "document_presentation": "Документ 60",
+    "document_presentation_guid": "44b4ae85-f90e-448a-84a7-cca7d3486817",
+    "document_type": "IN",
+    "record_date": "2024-01-28",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 60",
+    "organization_name": "Организация 60",
+    "organization_guid": "12fda7c8-6514-45d5-9986-99ba315e31ba",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2023-12-05",
+    "files": [
+      {
+        "file_name": "downloads/file60.pdf",
+        "file_presentation": "Страница 60"
+      }
+    ]
+  },
+  {
+    "request_guid": "d3994c9a-601a-4d67-9f75-d2637220386f",
+    "document_date": "2024-11-03",
+    "document_number": "ВС-1123461",
+    "document_presentation": "Документ 61",
+    "document_presentation_guid": "911579e9-083a-4b7e-9b87-0d49c27389cd",
+    "document_type": "OUT",
+    "record_date": "2024-04-27",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 61",
+    "organization_name": "Организация 61",
+    "organization_guid": "3f990099-e2c4-46cc-aa55-a6bc14226145",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2024-03-26",
+    "files": [
+      {
+        "file_name": "downloads/file61.jpg",
+        "file_presentation": "Страница 61"
+      }
+    ]
+  },
+  {
+    "request_guid": "27e61b12-d15b-493e-b5ee-08dc56a80ef2",
+    "document_date": "2024-05-26",
+    "document_number": "ВС-1123462",
+    "document_presentation": "Документ 62",
+    "document_presentation_guid": "63b3ffb3-3195-4c0a-885a-df3a3dbaa067",
+    "document_type": "OUT",
+    "record_date": "2024-02-11",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 62",
+    "organization_name": "Организация 62",
+    "organization_guid": "1c10c5c8-55c9-4e2a-a403-c88a3afa5e94",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-01-13",
+    "files": [
+      {
+        "file_name": "downloads/file62.xlsx",
+        "file_presentation": "Страница 62"
+      }
+    ]
+  },
+  {
+    "request_guid": "962dbf47-c440-454c-91e6-1aa2facb8aa9",
+    "document_date": "2023-11-28",
+    "document_number": "ВС-1123463",
+    "document_presentation": "Документ 63",
+    "document_presentation_guid": "098ce0d6-1bb6-4e68-9065-721b1cf43e1a",
+    "document_type": "OUT",
+    "record_date": "2024-12-23",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 63",
+    "organization_name": "Организация 63",
+    "organization_guid": "34cd6485-9f00-4881-9b01-167d2e042a0b",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2023-12-24",
+    "files": [
+      {
+        "file_name": "downloads/file63.tiff",
+        "file_presentation": "Страница 63"
+      }
+    ]
+  },
+  {
+    "request_guid": "dba1edae-54dd-4763-8da4-0284cf79aa24",
+    "document_date": "2022-01-27",
+    "document_number": "ВС-1123464",
+    "document_presentation": "Документ 64",
+    "document_presentation_guid": "cc0ebbe3-a5fe-438f-8c92-8283dd93f779",
+    "document_type": "IN",
+    "record_date": "2024-01-12",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 64",
+    "organization_name": "Организация 64",
+    "organization_guid": "aa12586c-4a6d-43f5-8f5c-f34f31055911",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2022-10-20",
+    "files": [
+      {
+        "file_name": "downloads/file64.rtf",
+        "file_presentation": "Страница 64"
+      }
+    ]
+  },
+  {
+    "request_guid": "1095c97f-b09f-4c88-8e79-7fc96908d80e",
+    "document_date": "2024-06-03",
+    "document_number": "ВС-1123465",
+    "document_presentation": "Документ 65",
+    "document_presentation_guid": "8e092ba1-5cf6-4afd-9e27-4751ae8a79c5",
+    "document_type": "IN",
+    "record_date": "2024-09-12",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 65",
+    "organization_name": "Организация 65",
+    "organization_guid": "d6855a89-6571-4791-9ccf-b1dc288ee279",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2023-11-23",
+    "files": [
+      {
+        "file_name": "downloads/file65.rtf",
+        "file_presentation": "Страница 65"
+      }
+    ]
+  },
+  {
+    "request_guid": "dc6870f8-f5a0-46d9-b7d1-91663e008697",
+    "document_date": "2024-12-13",
+    "document_number": "ВС-1123466",
+    "document_presentation": "Документ 66",
+    "document_presentation_guid": "a8f3634d-c721-4d42-a2f3-113c196a891d",
+    "document_type": "IN",
+    "record_date": "2024-12-07",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 66",
+    "organization_name": "Организация 66",
+    "organization_guid": "e6ba4bce-c0d1-429e-9975-1093cc811f6a",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2022-03-02",
+    "files": [
+      {
+        "file_name": "downloads/file66.png",
+        "file_presentation": "Страница 66"
+      }
+    ]
+  },
+  {
+    "request_guid": "65417c7f-1215-4f66-ad65-81312b7a2fc7",
+    "document_date": "2024-10-12",
+    "document_number": "ВС-1123467",
+    "document_presentation": "Документ 67",
+    "document_presentation_guid": "b352814e-60cc-4efc-b456-b4c1427cf6fb",
+    "document_type": "OUT",
+    "record_date": "2024-01-08",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 67",
+    "organization_name": "Организация 67",
+    "organization_guid": "057f8499-7e03-4574-a409-0365e9850ffc",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2023-08-18",
+    "files": [
+      {
+        "file_name": "downloads/file67.png",
+        "file_presentation": "Страница 67"
+      }
+    ]
+  },
+  {
+    "request_guid": "dcd93b87-f28e-496b-a026-985ede142fbd",
+    "document_date": "2024-01-23",
+    "document_number": "ВС-1123468",
+    "document_presentation": "Документ 68",
+    "document_presentation_guid": "5860b40d-18f2-421f-827e-76be931a5ceb",
+    "document_type": "OUT",
+    "record_date": "2023-05-22",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 68",
+    "organization_name": "Организация 68",
+    "organization_guid": "6f230aa4-8c44-49d7-ab60-50d30d567a8f",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2022-02-12",
+    "files": [
+      {
+        "file_name": "downloads/file68.pdf",
+        "file_presentation": "Страница 68"
+      }
+    ]
+  },
+  {
+    "request_guid": "7def5cfc-30a3-4a63-94f4-bfb07b88b30d",
+    "document_date": "2023-03-19",
+    "document_number": "ВС-1123469",
+    "document_presentation": "Документ 69",
+    "document_presentation_guid": "b75c05fd-f8a2-4cff-a163-42a452e8e203",
+    "document_type": "OUT",
+    "record_date": "2023-05-16",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 69",
+    "organization_name": "Организация 69",
+    "organization_guid": "8eada6bb-b090-40a2-b304-93cca5e3bb9d",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-03-25",
+    "files": [
+      {
+        "file_name": "downloads/file69.docx",
+        "file_presentation": "Страница 69"
+      }
+    ]
+  },
+  {
+    "request_guid": "ac25a12a-a02a-42d9-89d4-c7a445f9f456",
+    "document_date": "2023-12-17",
+    "document_number": "ВС-1123470",
+    "document_presentation": "Документ 70",
+    "document_presentation_guid": "f0ad16e3-45c2-488b-8a99-c7c3b65d5e37",
+    "document_type": "OUT",
+    "record_date": "2023-11-16",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 70",
+    "organization_name": "Организация 70",
+    "organization_guid": "20a18a2b-354b-47b6-94bd-98a849e97472",
+    "tax_period": "PERIOD_YEAR",
+    "tax_period_end_date": "2022-12-11",
+    "files": [
+      {
+        "file_name": "downloads/file70.tiff",
+        "file_presentation": "Страница 70"
+      }
+    ]
+  },
+  {
+    "request_guid": "4df05f2a-b372-4e52-b6f6-373a51ae7ba8",
+    "document_date": "2023-08-22",
+    "document_number": "ВС-1123471",
+    "document_presentation": "Документ 71",
+    "document_presentation_guid": "cf63e9c8-69be-4775-8de8-0f4459a3a283",
+    "document_type": "OUT",
+    "record_date": "2023-06-13",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 71",
+    "organization_name": "Организация 71",
+    "organization_guid": "86064887-8cf4-488a-a6f5-90610995fbea",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2023-02-13",
+    "files": [
+      {
+        "file_name": "downloads/file71.docx",
+        "file_presentation": "Страница 71"
+      }
+    ]
+  },
+  {
+    "request_guid": "87ad047e-25b4-4eb4-aff4-72afcc14c1da",
+    "document_date": "2022-03-01",
+    "document_number": "ВС-1123472",
+    "document_presentation": "Документ 72",
+    "document_presentation_guid": "9203b02d-839c-4a5a-aee3-ec5e8c10a70f",
+    "document_type": "IN",
+    "record_date": "2022-01-06",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 72",
+    "organization_name": "Организация 72",
+    "organization_guid": "45041f38-73d2-4c06-8e8e-663d0d0bf2c3",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-02-10",
+    "files": [
+      {
+        "file_name": "downloads/file72.doc",
+        "file_presentation": "Страница 72"
+      }
+    ]
+  },
+  {
+    "request_guid": "43b59b02-f31f-43cc-b549-dfec37cede44",
+    "document_date": "2024-11-15",
+    "document_number": "ВС-1123473",
+    "document_presentation": "Документ 73",
+    "document_presentation_guid": "8b5612c6-4a09-420c-b110-925be1c78785",
+    "document_type": "IN",
+    "record_date": "2023-08-10",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 73",
+    "organization_name": "Организация 73",
+    "organization_guid": "365c0a1f-dc9c-463b-8082-06d68ae2fa3b",
+    "tax_period": "PERIOD_Q2",
+    "tax_period_end_date": "2022-02-19",
+    "files": [
+      {
+        "file_name": "downloads/file73.bmp",
+        "file_presentation": "Страница 73"
+      }
+    ]
+  },
+  {
+    "request_guid": "87a09fc5-c9f1-4c0c-a4cc-1b490133958f",
+    "document_date": "2023-07-18",
+    "document_number": "ВС-1123474",
+    "document_presentation": "Документ 74",
+    "document_presentation_guid": "df4c8901-e0a3-4b0e-a147-ff80b03eac75",
+    "document_type": "OUT",
+    "record_date": "2022-12-10",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 74",
+    "organization_name": "Организация 74",
+    "organization_guid": "fb41c54c-294e-4012-91f0-b29c07fc4a2e",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-09-10",
+    "files": [
+      {
+        "file_name": "downloads/file74.bmp",
+        "file_presentation": "Страница 74"
+      }
+    ]
+  },
+  {
+    "request_guid": "0f3feeed-19d0-4038-9736-e7d07390a908",
+    "document_date": "2024-02-23",
+    "document_number": "ВС-1123475",
+    "document_presentation": "Документ 75",
+    "document_presentation_guid": "adce33f2-1918-4ea6-9f10-7d939a574a42",
+    "document_type": "OUT",
+    "record_date": "2023-08-25",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 75",
+    "organization_name": "Организация 75",
+    "organization_guid": "7bce2519-401c-4aec-b2b8-511bcb0d084f",
+    "tax_period": "PERIOD_Q3",
+    "tax_period_end_date": "2024-06-15",
+    "files": [
+      {
+        "file_name": "downloads/file75.rtf",
+        "file_presentation": "Страница 75"
+      }
+    ]
+  },
+  {
+    "request_guid": "fdb23926-e51f-43ae-b43e-14999d8663fb",
+    "document_date": "2023-03-06",
+    "document_number": "ВС-1123476",
+    "document_presentation": "Документ 76",
+    "document_presentation_guid": "9a573db7-6b99-4aa4-9bd5-26c37555d5f2",
+    "document_type": "OUT",
+    "record_date": "2022-05-24",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 76",
+    "organization_name": "Организация 76",
+    "organization_guid": "e0f15f43-4669-4e4b-a7bc-1d842c82301c",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2022-10-06",
+    "files": [
+      {
+        "file_name": "downloads/file76.pdf",
+        "file_presentation": "Страница 76"
+      }
+    ]
+  },
+  {
+    "request_guid": "1050915e-022e-40d0-b983-0c61466b432a",
+    "document_date": "2024-01-14",
+    "document_number": "ВС-1123477",
+    "document_presentation": "Документ 77",
+    "document_presentation_guid": "09c7fd82-9c29-486e-aea8-b9a0feaceb42",
+    "document_type": "IN",
+    "record_date": "2024-09-28",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 77",
+    "organization_name": "Организация 77",
+    "organization_guid": "88107fde-d73f-44d9-aaa3-a37c5e9aa7d9",
+    "tax_period": "PERIOD_Q4",
+    "tax_period_end_date": "2023-02-03",
+    "files": [
+      {
+        "file_name": "downloads/file77.jpg",
+        "file_presentation": "Страница 77"
+      }
+    ]
+  },
+  {
+    "request_guid": "e471f2b4-b45d-4f13-bfc8-f08c8bb50d2e",
+    "document_date": "2022-06-19",
+    "document_number": "ВС-1123478",
+    "document_presentation": "Документ 78",
+    "document_presentation_guid": "7bd073d3-fc83-4dba-a39c-d8e1675ff031",
+    "document_type": "IN",
+    "record_date": "2024-09-21",
+    "record_status": "REJECTED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 78",
+    "organization_name": "Организация 78",
+    "organization_guid": "db299d2e-5496-4aaa-9ef3-dbe1305b7958",
+    "tax_period": "PERIOD_MONTH",
+    "tax_period_end_date": "2023-10-09",
+    "files": [
+      {
+        "file_name": "downloads/file78.pdf",
+        "file_presentation": "Страница 78"
+      }
+    ]
+  },
+  {
+    "request_guid": "1ce373c8-d6be-4865-8119-fc1c2b8498eb",
+    "document_date": "2024-08-17",
+    "document_number": "ВС-1123479",
+    "document_presentation": "Документ 79",
+    "document_presentation_guid": "76fbf442-54b5-4a79-af07-e48b20757d92",
+    "document_type": "OUT",
+    "record_date": "2022-11-13",
+    "record_status": "IN_PROCESS",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 79",
+    "organization_name": "Организация 79",
+    "organization_guid": "9c832197-a27c-49c3-a98a-3e1cb2522f34",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2022-05-19",
+    "files": [
+      {
+        "file_name": "downloads/file79.rtf",
+        "file_presentation": "Страница 79"
+      }
+    ]
+  },
+  {
+    "request_guid": "1262490c-e248-48ab-9761-b235e906cb77",
+    "document_date": "2023-01-22",
+    "document_number": "ВС-1123480",
+    "document_presentation": "Документ 80",
+    "document_presentation_guid": "eaa4e4c4-0552-4b04-b18f-c3ed408383a5",
+    "document_type": "IN",
+    "record_date": "2024-05-04",
+    "record_status": "FINISHED",
+    "record_status_comment": "",
+    "record_comment": "Комментарий 80",
+    "organization_name": "Организация 80",
+    "organization_guid": "705006c4-0ad8-4d8a-84fe-e0670e7ee961",
+    "tax_period": "PERIOD_Q1",
+    "tax_period_end_date": "2022-02-14",
+    "files": [
+      {
+        "file_name": "downloads/file80.xlsx",
+        "file_presentation": "Страница 80"
+      }
+    ]
+  }
+]
