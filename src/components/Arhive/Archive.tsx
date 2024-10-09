@@ -61,7 +61,7 @@ const Archive: React.FC = () => {
 
     const fetchData = async () => {
         try {
-            const response = await axios.post<ArchiveRowData[]>('src/data/archive-data.json', {
+            const response = await axios.post<ArchiveRowData[]>(`${import.meta.env.VITE_BASE_URL}data/archive-data.json`, {
                 documentType: filter.documentType,
                 organizationName: filter.organizationName,
                 taxPeriod: filter.taxPeriod,

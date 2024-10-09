@@ -52,15 +52,15 @@ const getFilePreview = (file: File) => {
         case 'bmp':
             return <Avatar src={URL.createObjectURL(file)} alt={file.name} variant='square' />;
         case 'pdf':
-            return <Avatar src={'src/assets/icons/pdf.png'} alt={file.name} variant='square' />;
+            return <Avatar src={`${import.meta.env.VITE_BASE_URL}assets/icons/pdf.png`} alt={file.name} variant='square' />;
         case 'doc':
         case 'docx':
-            return <Avatar src={'src/assets/icons/doc.png'} alt={file.name} variant='square' />;
+            return <Avatar src={`${import.meta.env.VITE_BASE_URL}assets/icons/doc.png`} alt={file.name} variant='square' />;
         case 'xls':
         case 'xlsx':
-            return <Avatar src={'src/assets/icons/xls.png'} alt={file.name} variant='square' />;
+            return <Avatar src={`${import.meta.env.VITE_BASE_URL}assets/icons/xls.png`} alt={file.name} variant='square' />;
         case 'rtf':
-            return <Avatar src={'src/assets/icons/rtf.png'} alt={file.name} variant='square' />;
+            return <Avatar src={`${import.meta.env.VITE_BASE_URL}assets/icons/rtf.png`} alt={file.name} variant='square' />;
         default:
             return <Avatar variant='square'>{file.name[0]}</Avatar>;
     }
@@ -162,7 +162,7 @@ const FileUploadModal: React.FC<{ open: boolean; onClose: () => void; selectedRo
                     data.request_guid = selectedRow.request_guid;
                 }
 
-                await axios.post('src/data/request-data.json', data);
+                await axios.post(`${import.meta.env.VITE_BASE_URL}data/request-data.json`, data);
 //В зависимости от запроса (создание новой заявки, изменение существующей или удаление) адрес запроса может изменяться
 
                 setSnackbar({ open: true, message: 'Заявка успешно отправлена', severity: 'success' });

@@ -50,7 +50,7 @@ const RequestJournal: React.FC = () => {
 
     const fetchData = async () => {
         try {
-            const response = await axios.post('src/data/request-journal-data.json', {
+            const response = await axios.post(`${import.meta.env.VITE_BASE_URL}data/request-journal-data.json`, {
                 first_request_date: filterFromDate,
                 last_request_date: filterToDate,
                 record_status: filterStatus,
